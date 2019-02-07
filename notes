@@ -1,0 +1,1 @@
+source .env minden indítás előtt kell, hogy tudja hogy a környezeti változóim a .env-ben vannak
